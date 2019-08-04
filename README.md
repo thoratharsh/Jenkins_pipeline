@@ -1,6 +1,6 @@
 # Jenkins_pipeline
 
-#commands to start jenkins
+# commands to start jenkins
 
 1. cd C:/Program Files(X86)/ Jenkins
 2. java -jar Jenkins.war
