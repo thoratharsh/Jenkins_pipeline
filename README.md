@@ -1,6 +1,7 @@
 # Jenkins_pipeline
 
 # commands to start jenkins
+[Tutorial to start pipeline](https://jenkins.io/doc/book/pipeline/)
 
 1. cd C:/Program Files(X86)/ Jenkins
 
