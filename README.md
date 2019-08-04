@@ -12,4 +12,4 @@
 	taskkill /F /PID <PID>
 5. Start jenkins by below command:
 	java -jar Jenkins.war
-6. Accecss jenkins in browser with http://localhost:<portNumber>
+6. Accecss jenkins in browser with http://localhost: <portNumber>
